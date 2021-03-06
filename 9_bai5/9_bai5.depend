@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614567931 source:e:\hung\week4\9_bai5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
