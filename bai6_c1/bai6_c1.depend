@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615129312 source:e:\hung\week4\bai6_c1\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+
